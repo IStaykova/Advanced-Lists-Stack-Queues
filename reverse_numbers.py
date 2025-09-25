@@ -14,5 +14,4 @@ for _ in range(n):
         elif query[0] == "4":
             print(min(stack))
 print(", ".join([str(x) for x in reversed(stack)]))
-print("Hello")
 
